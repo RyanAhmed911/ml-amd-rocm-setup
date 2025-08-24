@@ -25,6 +25,10 @@ If you have an AMD graphics card and want to use machine learning libraries like
 
 By the end, you’ll have your AMD GPU fully unlocked for deep learning development, with a clean and reliable setup that you can confidently use for your projects.
 
+**YouTube Video Link:**
+
+[![Watch the video](https://img.youtube.com/vi/pfnctTG5K2c/0.jpg)](https://www.youtube.com/watch?v=pfnctTG5K2c)
+
 ---
 
 ## System Requirements:
